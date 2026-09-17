@@ -1,0 +1,8 @@
+{
+  "q1_naive_lift_pp": 6.61,
+  "q1_n_control": 7136,
+  "q1_n_treatment": 6864,
+  "q2_untrustworthy_segment": "influencer",
+  "q3_mix_adjusted_lift_pp": 1.63,
+  "q4_real_effect_segment": "app_store"
+}
